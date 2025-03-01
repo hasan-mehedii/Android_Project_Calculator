@@ -9,10 +9,6 @@ A simple calculator app built using Java for Android. This application provides 
 - Error handling for invalid inputs.
 
 
-## Screenshots
-*(Add screenshots of your app here)*
-
-
 ## Technologies Used
 - Java
 - Android Studio
@@ -22,7 +18,7 @@ A simple calculator app built using Java for Android. This application provides 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CalculatorApp.git
+   git clone https://github.com/hasan-mehedii/Android_Project_Calculator.git
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or a physical device.
 
