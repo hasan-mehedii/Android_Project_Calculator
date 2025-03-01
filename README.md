@@ -40,4 +40,4 @@ A simple calculator app built using Java for Android. This application provides 
 ## Contact
 For any inquiries or suggestions, please reach out to me via:
 - Email: [mehedi-2022415897@cs.du.ac.bd](mailto:mehedi-2022415897@cs.du.ac.bd)
-- GitHub: [YourGitHubProfile](https://github.com/hasan-mehedii)
+- GitHub: [hasan-mehedii](https://github.com/hasan-mehedii)
