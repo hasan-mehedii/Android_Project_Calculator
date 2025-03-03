@@ -8,13 +8,13 @@ A simple calculator app built using Java for Android. This application provides 
 - Real-time result updates.
 - Error handling for invalid inputs.
 
-## **Screenshots 📸**
 
-![APP](appicon.jpg)  
-_ICON._
+## **Screenshots 📸**  
 
-![Login](appui.jpg)  
-_UI._
+| ![APP](appicon.jpg) | ![Login](appui.jpg) |
+|:-------------------:|:------------------:|
+| _ICON._ | _UI._ |
+
 
 
 ## Technologies Used
