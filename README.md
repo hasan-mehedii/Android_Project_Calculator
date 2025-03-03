@@ -8,6 +8,14 @@ A simple calculator app built using Java for Android. This application provides 
 - Real-time result updates.
 - Error handling for invalid inputs.
 
+## **Screenshots 📸**
+
+![APP](appicon.jpg)  
+_ICON._
+
+![Login](appui.jpg)  
+_UI._
+
 
 ## Technologies Used
 - Java
